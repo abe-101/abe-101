@@ -4,7 +4,7 @@ My passion is computer science.
 Always striving to learn more.
 - 🔭 I’m currently working on completing K.N.King's book and Harvard's CS50
 - 🌱 I’m currently learning C and python
-- 👯 I’m looking to collaborate on a project written in C or python
+- 👬 I’m looking to collaborate on a project written in C or python
 
 
 <!--

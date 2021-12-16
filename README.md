@@ -6,7 +6,7 @@ I'm always striving to learn more.
 - 🌱 I’m currently learning C and python
 - 📖 I'm studying K.N.King's book on C and ThinkPython2
 - 👬 I’m looking to collaborate on a project written in C or python
-- 📫 How to reach me: shoot me an email abe at habet.dev
+- 📫 How to reach me: Shoot me an email: abe at habet.dev
 
 
 <!--

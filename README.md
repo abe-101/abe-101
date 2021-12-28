@@ -3,9 +3,9 @@ My name is Abe,
 My passion is computer science.  
 I'm always striving to learn more.
 - 🔭 I’m currently working on completing Harvard's CS50
-- 🌱 I’m currently learning C and python
-- 📖 I'm studying K.N.King's book on C and ThinkPython2
-- 👬 I’m looking to collaborate on a project written in C or python
+- 🌱 I’m currently learning Java and SQL
+- 📖 I'm forever greatful for studying K.N.King's book on C.
+- 👬 I’d be happyAnd you will get the HTTP port 80 and HTTPS port 443 is on the list to collaborate on a project written in C, Java or python
 - 📫 How to reach me: Shoot me an email: abe at habet.dev
 
 

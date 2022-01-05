@@ -3,6 +3,7 @@ My name is Abe,
 My passion is computer science.  
 I'm always striving to learn more.
 - 🔭 I’m currently working on completing Harvard's CS50
+- 🕸️ I'm currently building a web app using flask
 - 🌱 I’m currently learning Java and SQL
 - 📖 I'm forever greatful for studying K.N.King's book on C.
 - 👬 I’d be happy to collaborate on a project written in C, Java or python

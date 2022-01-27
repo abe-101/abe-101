@@ -8,7 +8,11 @@ I'm always striving to learn more.
 - 🕸️ I've completed my very first [web app](https://breakfast.habet.dev) using flask
 - 👬 I’d be happy to collaborate on a project written in C, Java or python
 - 📫 How to reach me: Shoot me an email: abe at habet.dev
+ 
+  
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=gotham" alt="abe-101" />
 
 <!--
 **abe-101/abe-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Abe,  
-My passion is computer science.  
+I'm a self taught software engineer and open source enthusiast.  
+I am passionate about technology and I love building delightful developer experiences.  
 I'm always striving to learn more.
 - 🔭 I’m currently enrolled in the [interviewcamp.io](https://interviewcamp.io/) #leetcode
 - 🌱 I’m currently studying data structures and algorithms

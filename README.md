@@ -2,7 +2,7 @@
 My name is Abe,  
 My passion is computer science.  
 I'm always striving to learn more.
-- 🔭 I’m currently working on completing Harvard's CS50ai
+- 🔭 I’m currently enrolled in the [interviewcamp.io](https://interviewcamp.io/) #leetcode
 - 🌱 I’m currently studying data structures and algorithms
 - 📖 I'm forever greatful for completing harvards CS50x and K.N.King's book on C
 - 🕸️ I've completed my very first [web app](https://breakfast.habet.dev) using flask

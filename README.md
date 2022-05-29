@@ -3,6 +3,7 @@ My name is Abe,
 I'm a self taught software engineer and open source enthusiast.  
 I am passionate about technology and I love building delightful developer experiences.  
 I'm always striving to learn more.
+<!--
 - 🔭 I’m currently enrolled in [interviewcamp.io](https://interviewcamp.io/) #leetcode
 - 🌱 I’m currently studying data structures and algorithms
 - 📖 I'm forever greatful for completing harvards CS50x and K.N.King's book on C
@@ -24,7 +25,7 @@ I'm always striving to learn more.
  [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>](https://www.linux.org/)
  [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
  [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>](https://en.wikipedia.org/wiki/C_(programming_language))
-<!--
+
 **abe-101/abe-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

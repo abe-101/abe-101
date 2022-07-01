@@ -1,8 +1,9 @@
 ### Hi there 👋
 My name is Abe,  
-I'm a self taught software engineer and open source enthusiast.  
-I am passionate about technology and I love building delightful developer experiences.  
-I'm always striving to learn more.
+I'm a Self-driven Software Engineer with a passion for problem-solving and learning. Writing code has become
+something that I thoroughly enjoy. I’m intrigued by learning, understanding, and using modern techniques to
+build fast and functional applications. In my spare time I enjoy trying new technologies and building my home
+web server.
 <!--
 - 🔭 I’m currently enrolled in [interviewcamp.io](https://interviewcamp.io/) #leetcode
 - 🌱 I’m currently studying data structures and algorithms

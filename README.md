@@ -1,5 +1,6 @@
-Curious, self-driven software developer passionate about solving problems with novel solutions. Patient, organized, and
-collaborative professional who enjoys learning and using modern techniques to build useful applications quickly.
+👋 Hi there
+I’m a software developer who loves solving problems by searching for or creating the best technical solution. I am self-taught, self-driven, and curious. When I see a problem, inefficiency, or gap, I seek to fix or improve it with a modern, quick, and easy-to-deploy (and maintain!) application, script, or suite of tools.
+
 <!--
 ### Hi there 👋
 - 🔭 I’m currently enrolled in [interviewcamp.io](https://interviewcamp.io/) #leetcode
@@ -13,6 +14,7 @@ collaborative professional who enjoys learning and using modern techniques to bu
 📈 my github stats
 -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=gotham" alt="abe-101" />
+[![@abe's Holopin board](https://holopin.me/abe)](https://holopin.io/@abe)
 <!--
  **languages and tools:**  
  [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
@@ -37,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

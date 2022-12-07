@@ -1,5 +1,5 @@
 👋 Hi there
-I’m a software developer who loves solving problems by searching for or creating the best technical solution. I am self-taught, self-driven, and curious. When I see a problem, inefficiency, or gap, I seek to fix or improve it with a modern, quick, and easy-to-deploy (and maintain!) application, script, or suite of tools.
+
 
 <!--
 ### Hi there 👋

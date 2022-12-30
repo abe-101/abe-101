@@ -1,4 +1,10 @@
-👋 Hi there
+👋 Hi there!
+
+My name is Abe Hanoka, and I am a software developer with a passion for creating clean, efficient, and user-friendly applications.
+
+I have experience with a variety of programming languages and frameworks, including Python and Django. In my free time, I enjoy drinking a quality cup of coffee, reading, and listening to classical music.
+
+You can find some of my projects on GitHub, and feel free to connect with me on [LinkedIn](https://linkedin.com/in/abe101) or [Twitter](https://twitter.com/abe__101) to learn more about my work and interests.
 
 
 <!--

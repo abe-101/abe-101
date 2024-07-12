@@ -1,4 +1,4 @@
-👋 Hi there!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Abe+Hanoka%E2%80%94when+I'm+not+brewing+coffee%2C+I+brew+code.)](https://git.io/typing-svg)
 
 My name is Abe Hanoka, and I am a software developer with a passion for creating clean, efficient, and user-friendly applications.
 
@@ -22,7 +22,6 @@ You can find some of my projects on GitHub, and feel free to connect with me on 
 
 [![@abe's Holopin board](https://holopin.me/abe)](https://holopin.io/@abe)
 
-[![](https://visitcount.itsvg.in/api?id=abe-101&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
  **languages and tools:**  
  [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)

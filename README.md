@@ -6,7 +6,6 @@ I have experience with a variety of programming languages and frameworks, includ
 
 You can find some of my projects on GitHub, and feel free to connect with me on [LinkedIn](https://linkedin.com/in/abe101) or [Twitter](https://twitter.com/abe__101) to learn more about my work and interests.
 
-
 <!--
 ### Hi there 👋
 - 🔭 I’m currently enrolled in [interviewcamp.io](https://interviewcamp.io/) #leetcode
@@ -19,8 +18,8 @@ You can find some of my projects on GitHub, and feel free to connect with me on 
   
 📈 my github stats
 -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=gotham" alt="abe-101" />
- 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=transparent" alt="abe-101" />
+
 [![@abe's Holopin board](https://holopin.me/abe)](https://holopin.io/@abe)
 <!--
  **languages and tools:**  
@@ -46,4 +45,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-

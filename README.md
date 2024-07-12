@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abe+Hanoka%E2%80%94when+I'm+not+brewing+coffee%2C+I+brew+code.)](https://git.io/typing-svg)
 
-My name is Abe Hanoka, and I am a software developer with a passion for creating clean, efficient, and user-friendly applications.
+🚀 I'm a seasoned full-stack developer with a knack for Django and HTMX. Available for hire!
+🔗 Dive into my open-source adventures:
 
-I have experience with a variety of programming languages and frameworks, including Python and Django. In my free time, I enjoy drinking a quality cup of coffee, reading, and listening to classical music.
-
-You can find some of my projects on GitHub, and feel free to connect with me on [LinkedIn](https://linkedin.com/in/abe101) or [Twitter](https://twitter.com/abe__101) to learn more about my work and interests.
+- **MergeCal**: [MergeCal.org](https://mergecal.org) - Merging calendars made easy.
+- **MyHebrewDates**: [MyHebrewDates.com](https://myhebrewdates.com) - Track your important recurring hebrew dates.
+- **dj-stripe**: [dj-stripe.dev](https://dj-stripe.dev) - Keeping your payments smooth.
 
 <!--
 ### Hi there 👋

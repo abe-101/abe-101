@@ -5,7 +5,10 @@
 
 - **MergeCal**: [MergeCal.org](https://mergecal.org) - Merging calendars made easy.
 - **MyHebrewDates**: [MyHebrewDates.com](https://myhebrewdates.com) - Track your important recurring hebrew dates.
-- **dj-stripe**: [dj-stripe.dev](https://dj-stripe.dev) - Keeping your payments smooth.
+- **dj-stripe**: [dj-stripe.dev](https://dj-stripe.dev) - Automatically syncs your Stripe Data to your local database
+- **Discord Bots**:
+  - [**LeetCode Bot**](https://github.com/abe-101/leetcode-bot) - Active on over 40 servers, offering LeetCode solutions and fostering a collaborative environment for coding challenges.
+  - [**Code & Coffee Bot**](https://github.com/CodeandCoffeeCommunity/Barista-bot) - Onboarded over 6,000 members, streamlining onboarding and enhancing community management.
 
 <!--
 ### Hi there 👋
@@ -19,6 +22,10 @@
   
 📈 my github stats
 -->
+<br>
+<br>
+<br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=transparent" alt="abe-101" />
 
 [![@abe's Holopin board](https://holopin.me/abe)](https://holopin.io/@abe)

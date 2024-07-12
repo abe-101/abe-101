@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Abe+Hanoka%E2%80%94when+I'm+not+brewing+coffee%2C+I+brew+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abe+Hanoka%E2%80%94when+I'm+not+brewing+coffee%2C+I+brew+code.)](https://git.io/typing-svg)
 
 My name is Abe Hanoka, and I am a software developer with a passion for creating clean, efficient, and user-friendly applications.
 

@@ -21,6 +21,8 @@ You can find some of my projects on GitHub, and feel free to connect with me on 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=transparent" alt="abe-101" />
 
 [![@abe's Holopin board](https://holopin.me/abe)](https://holopin.io/@abe)
+
+[![](https://visitcount.itsvg.in/api?id=abe-101&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
  **languages and tools:**  
  [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)

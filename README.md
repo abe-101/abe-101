@@ -28,8 +28,11 @@
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=transparent" alt="abe-101" />
+  
+![](https://komarev.com/ghpvc/?username=abe-101&style=for-the-badge)
 
 [![@abe's Holopin board](https://holopin.me/abe)](https://holopin.io/@abe)
+
 
 <!--
  **languages and tools:**  
